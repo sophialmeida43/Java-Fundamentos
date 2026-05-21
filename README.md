@@ -1,61 +1,77 @@
 # ☕ Java Fundamentos
 
-Repositório contendo exercícios desenvolvidos durante os estudos iniciais em Java.
+Repositório destinado aos estudos iniciais em Java, contendo exercícios voltados para lógica de programação, estruturas condicionais, estruturas de repetição, operações matemáticas e manipulação de dados.
+
+Os projetos foram desenvolvidos com foco na prática da sintaxe da linguagem Java e na construção de raciocínio lógico aplicado ao desenvolvimento de software.
 
 ---
 
-# 📂 Projetos
+# 📂 Estrutura do Repositório
 
 ## 📌 Java Introdução
 
+Exercícios desenvolvidos para prática dos fundamentos da linguagem Java, abordando variáveis, tipos primitivos, operadores matemáticos, entrada de dados, cálculos e manipulação de informações utilizando lógica básica de programação.
+
 ### Calculesalario.java
-Sistema simples para cálculo salarial baseado em horas trabalhadas e valor da hora.
+Aplicação desenvolvida para cálculo salarial com base em horas trabalhadas e valor recebido por hora.
 
 ### Fumante.java
-Programa que calcula estimativa de redução de vida de um fumante com base na quantidade de cigarros consumidos.
+Programa responsável por estimar a redução da expectativa de vida de um fumante com base na quantidade diária de cigarros consumidos.
 
 ### Latão.java
-Cálculo da composição de latão utilizando proporções matemáticas.
+Exercício matemático para cálculo proporcional da composição de latão utilizando operações aritméticas.
 
 ### Produto.java
-Exercício utilizando variáveis e cálculos básicos relacionados a produtos.
+Sistema simples para operações relacionadas a produtos e cálculos básicos utilizando variáveis.
 
 ### Temperatura.java
-Conversão de temperaturas entre Celsius e Fahrenheit.
+Aplicação para conversão de temperaturas entre Celsius e Fahrenheit.
 
 ### Tipodedado.java
-Exercício introdutório demonstrando utilização de diferentes tipos primitivos do Java.
+Exercício introdutório voltado para utilização de tipos primitivos da linguagem Java.
 
 ---
 
-# 📌 Java Estruturas de Decisão
+## 📌 Java Estruturas de Decisão
+
+Exercícios voltados para validações lógicas, tomada de decisão e controle de fluxo utilizando estruturas condicionais e estruturas de repetição da linguagem Java, como `if`, `else`, `switch`, `while` e `for`.
 
 ### Aprovação_empréstimos.java
-Sistema simples de validação para aprovação de empréstimos utilizando estruturas condicionais.
+Sistema de validação para aprovação de empréstimos utilizando regras condicionais.
 
 ### Calculadora.java
-Calculadora utilizando operadores matemáticos e lógica condicional.
+Calculadora matemática utilizando operadores aritméticos e lógica condicional.
 
 ### Meses_ano.java
-Exercício para exibição e verificação de meses do ano.
+Aplicação para validação e manipulação de meses do ano.
 
 ### Par_ou_impar.java
-Verificação numérica para identificar se um número é par ou ímpar.
+Verificação numérica para identificação de números pares e ímpares.
 
 ### Positivo_negativo_zero.java
-Classificação de números utilizando estruturas condicionais.
+Classificação de valores numéricos utilizando estruturas condicionais.
 
 ### Voto.java
-Sistema de validação de obrigatoriedade do voto baseado na idade do usuário.
+Sistema para validação da obrigatoriedade do voto com base na idade do usuário.
 
 ---
 
-# 🚀 Tecnologias
+# 🚀 Tecnologias Utilizadas
 
 - Java
-- Eclipse / STS4
+- Eclipse
 - Git
 - GitHub
+
+---
+
+# 🎯 Objetivos do Projeto
+
+- Praticar lógica de programação
+- Desenvolver raciocínio computacional
+- Aplicar estruturas condicionais e de repetição
+- Trabalhar com entrada e saída de dados
+- Consolidar fundamentos da linguagem Java
 
 ---
 

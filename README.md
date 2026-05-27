@@ -1,4 +1,4 @@
-# ☕ Java Fundamentos
+# ☕ Java Fundamentos - Repositório de Estudos
 
 Repositório desenvolvido para prática dos fundamentos da linguagem Java durante os estudos do curso técnico e exercícios complementares realizados em casa.
 
